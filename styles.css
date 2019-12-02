@@ -18,7 +18,7 @@ body {
   font-family: Calluna, Arial, sans-serif;
   /* background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/times-square-perspective.jpg); */
   background-image: url("img/background_main.jpg");
-  opacity: 0.6;
+  opacity: 0.8;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-size: 100% !important;
@@ -42,6 +42,7 @@ h1 {
   position: absolute;
   top: 10px;
   font-weight: 100;
+  text-align: center;
 }
 p {
   font-size: 1.3rem;
